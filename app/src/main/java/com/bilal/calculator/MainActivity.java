@@ -31,6 +31,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         btnSub.setOnClickListener(this);
         btnDiv.setOnClickListener(this);
         btnMul.setOnClickListener(this);
+        //this is a calculator
 
     }
 
